@@ -302,289 +302,241 @@
   {
     "id": 13,
     "image": "13.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 14,
     "image": "14.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 15,
     "image": "15.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 16,
     "image": "16.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 17,
     "image": "17.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 18,
     "image": "18.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 19,
     "image": "19.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 20,
     "image": "21.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 21,
     "image": "21.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 22,
     "image": "22.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 23,
     "image": "23.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 24,
     "image": "24.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 25,
     "image": "25.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 26,
     "image": "26.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 27,
     "image": "27.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 28,
     "image": "28.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 29,
     "image": "29.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 30,
     "image": "30.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 31,
     "image": "31.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 32,
     "image": "32.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 33,
     "image": "33.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 34,
     "image": "34.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 35,
     "image": "35.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 36,
     "image": "36.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 37,
     "image": "37.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 38,
     "image": "38.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 39,
     "image": "39.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 40,
     "image": "40.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 41,
     "image": "41.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 42,
     "image": "42.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 43,
     "image": "43.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 44,
     "image": "44.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 45,
     "image": "45.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 46,
     "image": "46.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 47,
     "image": "47.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 48,
     "image": "48.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 49,
     "image": "49.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 50,
     "image": "50.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 51,
     "image": "51.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 52,
     "image": "52.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 53,
     "image": "53.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 54,
     "image": "54.jpg",
-    "category": "Beaches",
-    
+    "category": "Beaches"
   },
   {
     "id": 55,
     "image": "55.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 56,
     "image": "56.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 57,
     "image": "57.jpg",
-    "category": "Mountain",
-    
+    "category": "Mountain"
   },
   {
     "id": 58,
     "image": "58.jpg",
-    "category": "Food",
-    
+    "category": "Food"
   },
   {
     "id": 59,
     "image": "59.jpg",
-    "category": "Birds",
-    
+    "category": "Birds"
   },
   {
     "id": 60,
     "image": "60.jpg",
-    "category": "Beaches",
-    
-  },
+    "category": "Beaches"
+  }
 ]
