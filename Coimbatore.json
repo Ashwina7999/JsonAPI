@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 76.9667,
+    "lat": 11
+  },
+  "weather": [
+    {
+      "id": 721,
+      "main": "Scattered Clouds",
+      "description": "scatteredClouds",
+      "icon": "03n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 23.88,
+    "feels_like": 23.99,
+    "temp_min": 22.5,
+    "temp_max": 23.88,
+    "pressure": 1017,
+    "humidity": 64
+  },
+  "visibility": 4000,
+  "wind": {
+    "speed": 1.54,
+    "deg": 190
+  },
+  "clouds": {
+    "all": 30
+  },
+  "dt": 1706201296,
+  "sys": {
+    "type": 1,
+    "id": 9206,
+    "country": "IN",
+    "sunrise": 1706145360,
+    "sunset": 1706187132
+  },
+  "timezone": 19800,
+  "id": 1273865,
+  "name": "Coimbatore",
+  "cod": 200
+}
